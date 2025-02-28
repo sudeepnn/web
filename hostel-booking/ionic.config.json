@@ -1,0 +1,7 @@
+{
+  "name": "hostel-booking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

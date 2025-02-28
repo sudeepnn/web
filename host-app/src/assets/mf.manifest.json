@@ -1,0 +1,10 @@
+{
+    "app": {
+        "remoteEntry": "https://ioniceappcloud.vercel.app/remoteEntry.js",
+        "exposedModule": "./AppModule",
+        "displayName": "Remote",
+        "routePath": "remote",
+        "ngModuleName": "AppModule"
+    }
+    
+}
